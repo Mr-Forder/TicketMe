@@ -2,7 +2,7 @@
 
 # TicketMe
 
-An bugtracking app that allows users to register, login, submit, modify and delete support tickets for any kind of project.
+A bugtracking app that allows users to register, login, submit, modify and delete support tickets for any kind of project.
 
 Built using the MERN stack, you'll need a MongoDB URI to get started.
 
